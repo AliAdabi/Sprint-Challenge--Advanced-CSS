@@ -326,3 +326,14 @@ footer {
   height: auto;
   border-radius: 10px;
 }
+section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-evenly;
+}
+section img {
+  display: flex;
+  margin: 0 auto;
+  width: 80%;
+}
