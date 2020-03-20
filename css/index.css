@@ -179,7 +179,7 @@ p {
   }
 }
 .navigation {
-  max-width: 100%;
+  width: 100%;
   margin: 0 auto;
   height: 80px;
   display: flex;
@@ -191,7 +191,8 @@ p {
   font-size: 4rem;
 }
 .navigation .navBar {
-  max-width: 600px;
+  width: 80%;
+  margin-top: 10px;
   display: flex;
   justify-content: space-between;
 }
